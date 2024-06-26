@@ -1,4 +1,4 @@
-# IIT Madras - Modern Application Development Assignments
+# IIT Madras - Modern Application Development - I Assignments
 
 Welcome to my repository for the Modern Application Development course at IIT Madras. This README provides a week-by-week overview of the problems tackled, along with the topics and techniques covered.
 
