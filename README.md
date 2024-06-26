@@ -120,10 +120,10 @@ The tasks for this week required us to:
 ### Example Usage
 - To get details for a student with ID `101`:
   ```bash
-  python app.py -s 101
+  python app.py -s 1001
 - To get details for a course with ID `201`:
   ```bash
-  python app.py -c 201
+  python app.py -c 2001
 ### Output
 - **Student Details Page**:
   Displays the student ID, course IDs, and marks in a table, along with the total marks.
