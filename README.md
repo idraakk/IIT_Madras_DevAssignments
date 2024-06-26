@@ -44,7 +44,7 @@ This week's task was to create a basic website with five HTML pages, focusing on
 
 4. **Contact Page (`contact.html`)**
    - **Main Section:** Address and email ID using the `address` tag.
-   - **Header % Footer:** Same as Home page.
+   - **Header & Footer:** Same as Home page.
 
 5. **Resume Page (`resume.html`)**
    - **Main Section:** Link to download the resume.
