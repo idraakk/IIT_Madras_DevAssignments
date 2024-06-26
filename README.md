@@ -36,19 +36,19 @@ This week's task was to create a basic website with five HTML pages, focusing on
 
 2. **Academics Page (`academics.html`)**
    - **Main Section:** Marks displayed in a table.
-   - **Footer:** Same as Home page.
+   - **Header & Footer:** Same as Home page.
 
 3. **Personal Page (`personal.html`)**
    - **Main Section:** Two images and a link to the IITM Online Degree webpage.
-   - **Footer:** Same as Home page.
+   - **Header & Footer:** Same as Home page.
 
 4. **Contact Page (`contact.html`)**
    - **Main Section:** Address and email ID using the `address` tag.
-   - **Footer:** Same as Home page.
+   - **Header % Footer:** Same as Home page.
 
 5. **Resume Page (`resume.html`)**
    - **Main Section:** Link to download the resume.
-   - **Footer:** Same as Home page.
+   - **Header & Footer:** Same as Home page.
 
 ### Techniques and Learnings
 
@@ -67,8 +67,6 @@ This week's task was to create a basic website with five HTML pages, focusing on
 - `contact.html`
 - `resume.html`
 - Images for the personal page
-
-Stay tuned for more weekly assignments showcasing advanced web development techniques. Feel free to reach out with any questions or feedback!
 
 
 # Week 3: Python Scripting, HTML Generation, and Data Visualization
@@ -136,6 +134,4 @@ The tasks for this week required us to:
 - `data.csv`: The CSV file containing student marks (provided by IIT Madras).
 - `output.html`: The generated HTML output file.
 
-This week's assignment helped us reinforce our skills in Python scripting, data processing, and HTML generation. It also provided hands-on experience with command line interfaces and data visualization, essential tools for modern application development.
-
-
+  
